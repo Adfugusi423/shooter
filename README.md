@@ -5,3 +5,4 @@ sounds - звуки игры
 shooter.py - главный код
 shooter.py.txt - текстовый формат кода
 top score - рекорд по очкам
+v 1.0
