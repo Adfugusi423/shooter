@@ -3,4 +3,5 @@
 images - изображения обьектов
 sounds - звуки игры
 shooter.py - главный код
-
+shooter.py.txt - текстовый формат кода
+top score - рекорд по очкам
